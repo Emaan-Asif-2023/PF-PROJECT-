@@ -1,6 +1,6 @@
-# ATM Management System
+# Bank Management System
 
-Welcome to the ATM Management System, a simple yet powerful application for managing user accounts and transactions in an ATM environment.
+Welcome to the Bank Management System, a simple yet powerful application for managing user accounts and transactions in an bank environment.
 
 ## Features
 
